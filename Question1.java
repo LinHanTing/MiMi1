@@ -5,6 +5,8 @@
 -		System.out.printf("A AM012060 林漢庭提交");
 		System.out.printf("B");
 		System.out.printf("A AM012228 賴柏良提交");
+		System.out.printf("C");
+		System.out.printf("C AM012228 邱緯立提交");
 
  
 	}
